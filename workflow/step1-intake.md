@@ -18,22 +18,24 @@
 
 Essential Information:
 
-Business profile and operations
-Data types and sensitivity levels
-Systems, tools, and processes
-User access and roles
-Vendors and thrid parties
-Existing security controls
-Prior incidents (if any)
-Asset inventory
-Compliance requirements
-Goals and concerns
-Output
+- Business profile and operations
+- Data types and sensitivity levels
+- Systems, tools, and processes
+- User access and roles
+- Vendors and thrid parties
+- Existing security controls
+- Prior incidents (if any)
+- Asset inventory
+- Compliance requirements
+- Goals and concerns
 
-Defined assessment scope
-Intial risk context
-Identified critical assets and business operations
-Adequately defined business profile and processes
-Crucial
+**Output**
+
+- Defined assessment scope
+- Intial risk context
+- Identified critical assets and business operations
+- Adequately defined business profile and processes
+
+**Crucial**
 
 Poor intake = inaccurate assessment = useless results
