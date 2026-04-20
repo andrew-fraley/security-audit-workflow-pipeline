@@ -19,5 +19,10 @@ Process:
 - Clarify any technical issues and validate client understanding
 
 Key Focus:
--  Communication
--  
+- Communication of findings
+- Establish risk prioritization
+- Validate client understanding
+
+
+**Output**
+Post consultation results in a final understanding to review the assessment findings and have all needed information to publish the final delivery report for the client.
